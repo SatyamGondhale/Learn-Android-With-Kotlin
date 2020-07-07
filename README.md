@@ -6,5 +6,5 @@ The project consist of different branches, each branch dedicated to explanation 
 ## Benefits of Learning
 You Learn Android Concepts & Kotlin Concepts hand-in-hand
 
-** ###### Branch : say_goodbye_to_findViewById_using_kotlin **
+** Branch : say_goodbye_to_findViewById_using_kotlin **
 
