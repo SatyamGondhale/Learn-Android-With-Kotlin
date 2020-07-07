@@ -6,5 +6,9 @@ The project consist of different branches, each branch dedicated to explanation 
 ## Benefits of Learning
 You Learn Android Concepts & Kotlin Concepts hand-in-hand
 
-**Branch : say_goodbye_to_findViewById_using_kotlin**
+**Branch 1 : say_goodbye_to_findViewById_using_kotlin :**
+This helps you to understand how you can get rid of boilerplate code of traditional **findViewById()**. 
+This is possible because of Kotlin plugin.
+This will allow you to access views in the layout XML, just as if they were properties with the name of the id you used in the layout definition.
+For More details read : [Kotlin Android Extensions](https://antonioleiva.com/kotlin-android-extensions/)
 
