@@ -14,3 +14,8 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 3. This will allow you to access views in the layout XML, just as if they were properties with the name of the id you used in the layout definition.
 4. For More details read : [Kotlin Android Extensions](https://antonioleiva.com/kotlin-android-extensions/)
 
+**Branch 2 : edittext_kotlin :**
+1. This helps you to understand how **Fragments** & **EditText** can be used with Kotlin code.
+2. We learn here How **Fragments** can be declared, accessed & How **EditText** can be used.
+3. Kotlin concepts learn here are : 
+   - companion object
