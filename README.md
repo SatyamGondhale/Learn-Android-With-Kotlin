@@ -6,6 +6,8 @@ The project consist of different branches, each branch dedicated to explanation 
 ## Benefits of Learning
 You Learn Android Concepts & Kotlin Concepts hand-in-hand
 
+## How to Use the code
+
 **Branch 1 : say_goodbye_to_findViewById_using_kotlin :**
 1. This helps you to understand how you can get rid of boilerplate code of traditional **findViewById()**. 
 2. This is possible because of Kotlin plugin.
