@@ -10,9 +10,10 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 
 **Branch 1 : say_goodbye_to_findViewById_using_kotlin :**
 1. This helps you to understand how you can get rid of boilerplate code of traditional **findViewById()**. 
-2. This is possible because of Kotlin plugin.
-3. This will allow you to access views in the layout XML, just as if they were properties with the name of the id you used in the layout definition.
-4. For More details read : [Kotlin Android Extensions](https://antonioleiva.com/kotlin-android-extensions/)
+2. It also helps us to understand how view properties can be accessed programmatically
+3. This is possible because of Kotlin plugin.
+4. This will allow you to access views in the layout XML, just as if they were properties with the name of the id you used in the layout definition.
+5. For More details read : [Kotlin Android Extensions](https://antonioleiva.com/kotlin-android-extensions/)
 
 **Branch 2 : edittext_kotlin :**
 1. This helps you to understand how **Fragments** & **EditText** can be used with Kotlin code.
