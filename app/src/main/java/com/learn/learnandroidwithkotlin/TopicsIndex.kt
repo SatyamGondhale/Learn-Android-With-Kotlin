@@ -50,6 +50,12 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,Edittext.newInstance(),"EdittextFragment")
             ft.commit();
         }
+        v.toast_topic.setOnClickListener{
+            fm=childFragmentManager
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,ToastMessage.newInstance(),"ToastFragment")
+            ft.commit();
+        }
         return v;
     }
 
