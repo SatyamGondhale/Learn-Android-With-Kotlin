@@ -21,5 +21,13 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 3. Kotlin concepts used here are : 
    - [Kotlin Companion Objects](https://kotlinlang.org/docs/tutorials/kotlin-for-py/objects-and-companion-objects.html)
    - [Use of requireActivity()]( https://android.jlelse.eu/the-requireactivity-and-requirecontext-example-1c089ce11a3a)
+   
+   
+ **Branch 3 : toast_message_kotlin :**
+ 1. This helps us to understand how Toast message in displayed with Kotlin Code. 
+ 2. Almost similar to Java way of displaying message
+ 3. As we know requireActivity(), is used to get Activity Context in Fragment
+ 4. Another way of getting Activity context can be seen in code
+ 5. We also learn how to show Custom Toast message with custom view, setting Gravity for Message where it should be displayed.
   
 
