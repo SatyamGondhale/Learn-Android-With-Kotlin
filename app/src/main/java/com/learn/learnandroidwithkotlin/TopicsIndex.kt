@@ -56,6 +56,12 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,ToastMessage.newInstance(),"ToastFragment")
             ft.commit();
         }
+        v.dialog_topic.setOnClickListener{
+            fm=childFragmentManager
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,DialogKotlin.newInstance(),"DialogFragment")
+            ft.commit();
+        }
         return v;
     }
 
