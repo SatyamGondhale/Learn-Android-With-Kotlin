@@ -18,7 +18,7 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 **Branch 2 : edittext_kotlin :**
 1. This helps you to understand how **Fragments** & **EditText** can be used with Kotlin code.
 2. We learn here How **Fragments** can be declared, accessed & How **EditText** can be used.
-3. Kotlin concepts learn here are : 
+3. Kotlin concepts used here are : 
    - [Kotlin Companion Objects](https://kotlinlang.org/docs/tutorials/kotlin-for-py/objects-and-companion-objects.html)
    - [Use of requireActivity()]( https://android.jlelse.eu/the-requireactivity-and-requirecontext-example-1c089ce11a3a)
   
