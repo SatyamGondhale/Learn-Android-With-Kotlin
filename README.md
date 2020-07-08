@@ -7,7 +7,7 @@ The project consist of different branches, each branch dedicated to explanation 
 You Learn Android Concepts & Kotlin Concepts hand-in-hand
 
 ## How to Use the code 
-###(Copy & Paste this Kotlin Code as per requirement & Understand the Kotlin documentation from Links provided)
+### (Copy & Paste this Kotlin Code as per requirement & Understand the Kotlin documentation from Links provided)
 
 **Branch 1 : say_goodbye_to_findViewById_using_kotlin :**
 1. This helps you to understand how you can get rid of boilerplate code of traditional **findViewById()**. 
