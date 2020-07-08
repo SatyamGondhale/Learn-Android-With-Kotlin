@@ -30,5 +30,12 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
  3. As we know requireActivity(), is used to get Activity Context in Fragment
  4. Another way of getting Activity context can be seen in code
  5. We also learn how to show Custom Toast message with custom view, setting Gravity for Message where it should be displayed.
+ 
+ 
+ **Branch 4 : dialogs_kotlin :**
+ 1. This helps us to understand how Dialog message is displayed with Kotlin Code.
+ 2. We also learn how to add Positive, Negative, Neutral button for dialog also given here.
+ 3. Custom Layout for dialog can also be added for dialog with custom views
+ 
   
 
