@@ -37,5 +37,14 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
  2. We also learn how to add Positive, Negative, Neutral button for dialog also given here.
  3. Custom Layout for dialog can also be added for dialog with custom views
  
+ **Branch 5 : listview_kotlin :**
+ 1. This help us to understand how ListView is displayed with kotlin Code.
+ 2. Also, how Simple & Custom ListView with custom view, and of custom type works in kotlin.
+ 3. We can see a very little difference in Java & Kotlin implmentation for custom ListView.
+ 4. Kotlin concepts used here are :
+    - [Kotlin Classes](https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html)
+    - [Kotlin Collections](https://kotlinlang.org/docs/reference/collections-overview.html)
+    - [Kotlin List Operations](https://kotlinlang.org/docs/reference/list-operations.html)
+ 
   
 
