@@ -62,6 +62,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,DialogKotlin.newInstance(),"DialogFragment")
             ft.commit();
         }
+        v.listview_topic.setOnClickListener{
+            fm=childFragmentManager
+            val listviewFragment=ListView()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,listviewFragment,"ListViewFragment")
+            ft.commit();
+        }
         return v;
     }
 
