@@ -45,6 +45,11 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
     - [Kotlin Classes](https://kotlinlang.org/docs/tutorials/kotlin-for-py/classes.html)
     - [Kotlin Collections](https://kotlinlang.org/docs/reference/collections-overview.html)
     - [Kotlin List Operations](https://kotlinlang.org/docs/reference/list-operations.html)
+    
+**Branch 6 : pass_data_activity :**
+1. This help us to understand how data can be transferred from one Activity to another using Intent.
+2. Data can be of String, boolean, double etc type.
+3. Minor things like getting activity context in Fragment, finish activty in kotlin also explained here.
  
   
 
