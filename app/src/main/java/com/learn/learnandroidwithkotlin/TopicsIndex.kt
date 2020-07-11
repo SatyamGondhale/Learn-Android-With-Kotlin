@@ -69,6 +69,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,listviewFragment,"ListViewFragment")
             ft.commit();
         }
+        v.datatransfer_activity.setOnClickListener{
+            fm=childFragmentManager
+            val shareDataFragment=ShareDataActivity()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,shareDataFragment,"ShareDataFragment")
+            ft.commit();
+        }
         return v;
     }
 
