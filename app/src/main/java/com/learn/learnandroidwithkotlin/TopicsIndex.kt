@@ -71,7 +71,14 @@ class TopicsIndex : Fragment() {
         }
         v.datatransfer_activity.setOnClickListener{
             fm=childFragmentManager
-            val shareDataFragment=ShareDataActivity()
+            val shareDataActivity=ShareDataActivity()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,shareDataActivity,"ShareDataFragment")
+            ft.commit();
+        }
+        v.datatransfer_fragment.setOnClickListener{
+            fm=childFragmentManager
+            val shareDataFragment=ShareDataFragment()
             ft=requireActivity().supportFragmentManager.beginTransaction()
             ft.replace(R.id.app_frame,shareDataFragment,"ShareDataFragment")
             ft.commit();
