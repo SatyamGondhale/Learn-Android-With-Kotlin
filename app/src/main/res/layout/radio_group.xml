@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/whiteBackground"
+    android:layout_height="match_parent"
+    tools:context=".RadioGroup">
+
+    <!-- TODO: Update blank fragment layout -->
+   <RadioGroup
+       android:id="@+id/radio_group"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <RadioButton
+           android:id="@+id/java"
+           android:text="Java"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content">
+       </RadioButton>
+       <RadioButton
+           android:id="@+id/ruby"
+           android:text="Ruby"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content">
+       </RadioButton>
+       <RadioButton
+           android:id="@+id/dart"
+           android:text="Dart"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content">
+       </RadioButton>
+       <RadioButton
+           android:id="@+id/swift"
+           android:text="Swift"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content">
+       </RadioButton>
+   </RadioGroup>
+</androidx.constraintlayout.widget.ConstraintLayout>
