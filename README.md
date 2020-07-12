@@ -50,6 +50,11 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 1. This help us to understand how data can be transferred from one Activity to another using Intent.
 2. Data can be of String, boolean, double etc type.
 3. Minor things like getting activity context in Fragment, finish activty in kotlin also explained here.
+
+**Branch 7 : pass_data_fragment :**
+1. This helps us to understand how data can be transferred from one Fragment to another using Bundle.
+2. Data can be of String, boolean, double, int etc type.
+3. No major kotlin concepts used, very similar to java way of creating Bundle, add data, set bundle data to fragment, get data from bundle.
  
   
 
