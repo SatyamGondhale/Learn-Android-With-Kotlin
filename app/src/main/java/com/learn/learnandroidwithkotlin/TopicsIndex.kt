@@ -83,6 +83,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,shareDataFragment,"ShareDataFragment")
             ft.commit();
         }
+        v.radiogroup_topic.setOnClickListener{
+            fm=childFragmentManager
+            val radioGroupFragment=RadioGroup()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,radioGroupFragment,"RadioGroupFragment")
+            ft.commit();
+        }
         return v;
     }
 
