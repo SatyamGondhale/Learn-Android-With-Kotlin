@@ -57,9 +57,14 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 3. No major kotlin concepts used, very similar to java way of creating Bundle, add data, set bundle data to fragment, get data from bundle.
 
 **Branch 8 : radiogroup_kotlin :**
-1. This helps us to understand how RadioGroup, RadioButton is used in Android using Kotlin
-2. We also understand how radio group is accessed, checkedChangeListener of radio button, how to get selected radio button data etc
-3. Also, different ways of accessing individual radio button and selected radio button properties
+1. This helps us to understand how RadioGroup, RadioButton is used in Android using Kotlin.
+2. We also understand how radio group is accessed, checkedChangeListener of radio button, how to get selected radio button data etc.
+3. Also, different ways of accessing individual radio button and selected radio button properties.
+
+**Branch 9 : checkbox_kotlin :**
+1. This helps us to understand how Checkbox is used in Android using Kotlin.
+2. We also understand how checkChangeListener of checkbox is used for checkbox events.
+3. It is almost similar java implementation with some syntax changes of Kotlin.
  
   
 
