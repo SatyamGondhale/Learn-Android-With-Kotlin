@@ -9,6 +9,13 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 ## How to Use the code 
 ### (Copy & Paste this Kotlin Code as per requirement & Understand the Kotlin documentation from Links provided)
 
+## Prerequisite (Read at least once)
+1. [Kotlin Basic Types Knowledge](https://kotlinlang.org/docs/reference/basic-types.html)
+2. [Kotlin Control Flow](https://kotlinlang.org/docs/reference/control-flow.html)
+3. [Kotlin Function](https://kotlinlang.org/docs/reference/functions.html)
+4. [Must Read Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
+5. [Kotlin Collections](https://kotlinlang.org/docs/reference/collections-overview.html)
+
 **Branch 1 : say_goodbye_to_findViewById_using_kotlin :**
 1. This helps you to understand how you can get rid of boilerplate code of traditional **findViewById()**. 
 2. It also helps us to understand how view properties can be accessed programmatically
