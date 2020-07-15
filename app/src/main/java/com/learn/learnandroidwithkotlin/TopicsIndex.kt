@@ -90,6 +90,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,radioGroupFragment,"RadioGroupFragment")
             ft.commit();
         }
+        v.checkbox_topic.setOnClickListener{
+            fm=childFragmentManager
+            val checkboxFragment=Checkbox()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,checkboxFragment,"CheckboxFragment")
+            ft.commit();
+        }
         return v;
     }
 
