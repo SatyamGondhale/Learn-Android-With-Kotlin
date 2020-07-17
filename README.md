@@ -10,11 +10,12 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 ### (Copy & Paste this Kotlin Code as per requirement & Understand the Kotlin documentation from Links provided)
 
 ## Prerequisite (Read at least once)
-1. [Kotlin Basic Types Knowledge](https://kotlinlang.org/docs/reference/basic-types.html)
-2. [Kotlin Control Flow](https://kotlinlang.org/docs/reference/control-flow.html)
-3. [Kotlin Function](https://kotlinlang.org/docs/reference/functions.html)
-4. [Must Read Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
-5. [Kotlin Collections](https://kotlinlang.org/docs/reference/collections-overview.html)
+1. [Kotlin Basic Syntax](https://kotlinlang.org/docs/reference/basic-syntax.html)
+2. [Kotlin Basic Types Knowledge](https://kotlinlang.org/docs/reference/basic-types.html)
+3. [Kotlin Control Flow](https://kotlinlang.org/docs/reference/control-flow.html)
+4. [Kotlin Function](https://kotlinlang.org/docs/reference/functions.html)
+5. [Must Read Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
+6. [Kotlin Collections](https://kotlinlang.org/docs/reference/collections-overview.html)
 
 **Branch 1 : say_goodbye_to_findViewById_using_kotlin :**
 1. This helps you to understand how you can get rid of boilerplate code of traditional **findViewById()**. 
@@ -83,6 +84,14 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
    - [Kotlin Interface](https://kotlinlang.org/docs/reference/interfaces.html)
    - [Kotlin Functions](https://kotlinlang.org/docs/reference/functions.html)
    - [Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
+   
+**Branch 11 : navigationdrawer_kotlin :**
+1. This help us to understand how basic Navigation Drawer can be implemented in Android using Kotlin.
+2. The best thing is almost similar implementation of Java way with very less code.
+3. Navigation Drawer items click & adding menu item xml is same like Java
+4. It also requires ActionBarDrawerToggle for Navigation drawer working.
+5. Kotlin concepts used here are :
+   - [Kotlin Control Flow](https://kotlinlang.org/docs/reference/control-flow.html)
 
 
  
