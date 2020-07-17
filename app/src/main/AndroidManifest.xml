@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IntentDataActivity"></activity>
+        <activity android:name=".NavDrawer"
+            android:theme="@style/AppThemeNoActionBar">
+        </activity>
+        <activity android:name=".IntentDataActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

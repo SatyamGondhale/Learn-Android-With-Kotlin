@@ -1,5 +1,6 @@
 package com.learn.learnandroidwithkotlin
 
+import android.content.Intent
 import android.graphics.Typeface
 import android.os.Bundle
 import android.text.TextUtils
@@ -7,6 +8,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
 import kotlinx.android.synthetic.main.activity_main.*
@@ -103,6 +105,12 @@ class TopicsIndex : Fragment() {
             ft=requireActivity().supportFragmentManager.beginTransaction()
             ft.replace(R.id.app_frame,recyclerviewFragment,"RecyclerviewFragment")
             ft.commit();
+        }
+        v.navdrawer_topic.setOnClickListener{
+            val currentAct=activity as AppCompatActivity
+            val intent= Intent(activity as AppCompatActivity,NavDrawer::class.java)
+            startActivity(intent)
+            currentAct.finish()
         }
         return v;
     }
