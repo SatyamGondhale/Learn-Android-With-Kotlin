@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/profile"
+    android:title="My Profile">
+</item>
+    <item android:id="@+id/updates"
+        android:title="Updates">
+    </item>
+    <item android:id="@+id/notifications"
+        android:title="Notifications">
+    </item>
+    <item android:id="@+id/Friends"
+        android:title="Friends List">
+    </item>
+    <item android:id="@+id/messages"
+        android:title="Messages">
+</item>
+
+</menu>
