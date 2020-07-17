@@ -79,6 +79,8 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 3. Here also we deal with Adapter class, clickListener event for Recyclerview.
 4. Reference for how Lamba can be used as ClickListener for RecyclerView [Tutorial](https://www.andreasjakl.com/recyclerview-kotlin-style-click-listener-android/).
 5. Kotlin concepts used here are :
+   - [Kotlin Classes & Objects](https://kotlinlang.org/docs/reference/classes.html)
+   - [Kotlin Interface](https://kotlinlang.org/docs/reference/interfaces.html)
    - [Kotlin Functions](https://kotlinlang.org/docs/reference/functions.html)
    - [Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
 
