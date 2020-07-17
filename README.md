@@ -77,11 +77,12 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 1. This help us to understand how Recyclerview is implemented in Android with Kotlin.
 2. It's almost a similar way how Recyclerview is implemented Java way.
 3. Here also we deal with Adapter class, clickListener event for Recyclerview.
-4. Kotlin concepts used here are :
+4 .Reference for how Lamba can be used as ClickListener for RecyclerView [Tutorial](https://www.andreasjakl.com/recyclerview-kotlin-style-click-listener-android/).
+5. Kotlin concepts used here are :
    - [Kotlin Functions](https://kotlinlang.org/docs/reference/functions.html)
    - [Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
 
-5 .Reference for how Lamba can be used as ClickListener for RecyclerView [Tutorial](https://www.andreasjakl.com/recyclerview-kotlin-style-click-listener-android/)
+
  
   
 
