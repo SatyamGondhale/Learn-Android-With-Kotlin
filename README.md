@@ -80,6 +80,7 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 4. Kotlin concepts used here are :
    - [Kotlin Functions](https://kotlinlang.org/docs/reference/functions.html)
    - [Kotlin Lambdas](https://kotlinlang.org/docs/reference/lambdas.html)
+
 5 .Reference for how Lamba can be used as ClickListener for RecyclerView [Tutorial](https://www.andreasjakl.com/recyclerview-kotlin-style-click-listener-android/)
  
   
