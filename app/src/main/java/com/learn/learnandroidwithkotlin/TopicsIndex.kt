@@ -97,6 +97,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,checkboxFragment,"CheckboxFragment")
             ft.commit();
         }
+        v.recyclerview_topic.setOnClickListener{
+            fm=childFragmentManager
+            val recyclerviewFragment=Recyclerview()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,recyclerviewFragment,"RecyclerviewFragment")
+            ft.commit();
+        }
         return v;
     }
 
