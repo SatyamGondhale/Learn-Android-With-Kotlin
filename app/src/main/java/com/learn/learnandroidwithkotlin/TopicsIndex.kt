@@ -112,6 +112,12 @@ class TopicsIndex : Fragment() {
             startActivity(intent)
             currentAct.finish()
         }
+        v.options_context_topic.setOnClickListener{
+            val currentAct=activity as AppCompatActivity
+            val intent= Intent(activity as AppCompatActivity,OptionsContextMenu::class.java)
+            startActivity(intent)
+            currentAct.finish()
+        }
         return v;
     }
 
