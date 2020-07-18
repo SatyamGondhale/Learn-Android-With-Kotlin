@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/rate_app"
+    android:title="Rate App">
+</item>
+    <item android:title="Send Feedback"
+        android:id="@+id/send_feedback">
+
+    </item>
+</menu>
