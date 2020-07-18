@@ -92,6 +92,13 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 4. It also requires ActionBarDrawerToggle for Navigation drawer working.
 5. Kotlin concepts used here are :
    - [Kotlin Control Flow](https://kotlinlang.org/docs/reference/control-flow.html)
+   
+   
+**Branch 12 : options_context_menu_kotlin :**
+1. This help up to understand how Options & Context menu is implemented in Android using kotlin.
+2. It is almost similar implementation of Java way.
+3. Inflating menu & setting menu click listener are only things to implemented carefully.
+
 
 
  
