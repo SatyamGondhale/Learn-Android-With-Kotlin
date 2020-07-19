@@ -125,6 +125,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,progressDialogFragment,"RecyclerviewFragment")
             ft.commit();
         }
+        v.notifications_topic.setOnClickListener{
+            fm=childFragmentManager
+            val notificationFragment=Notifications()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,notificationFragment,"NotificationFragment")
+            ft.commit();
+        }
         return v;
     }
 
