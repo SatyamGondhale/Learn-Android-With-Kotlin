@@ -113,6 +113,12 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 4. Notification style, image, content, image, intent etc can be set programmatically
 
 
+**Branch 15 : runtime_permissions_kotlin :**
+1. This help us to understand the basics of how runtime permission can be implemented in Android using kotlin.
+2. Checking permission for already granted, requesting permission if not, handling the state after permission granted is almost the same as in Java
+3. Too much easy with Kotlin code.
+
+
 
 
 
