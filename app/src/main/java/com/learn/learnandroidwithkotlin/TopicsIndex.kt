@@ -118,6 +118,13 @@ class TopicsIndex : Fragment() {
             startActivity(intent)
             currentAct.finish()
         }
+        v.progressdialog_topic.setOnClickListener{
+            fm=childFragmentManager
+            val progressDialogFragment=ProgressDialog()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,progressDialogFragment,"RecyclerviewFragment")
+            ft.commit();
+        }
         return v;
     }
 
