@@ -100,6 +100,14 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 3. Inflating menu & setting menu click listener are only things to implemented carefully.
 
 
+**Branch 13 : progressdialog_kotlin :**
+1. This help us to understand how ProgressDialog can be used in Android using kotlin.
+2. Similar way of Java(creating progress bar instance, setting title, message, style)
+3. Different properties can be set programmatically based on requirement.
+
+
+
+
 
  
   
