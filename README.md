@@ -106,6 +106,14 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 3. Different properties can be set programmatically based on requirement.
 
 
+**Branch 14 : notifications_kotlin :**
+1. This help us to understand how Notifications can be used in Android using kotlin.
+2. It follows similar Java way of implemenatation but using kotin :laughing:
+3. Here we also need to use NotificationManager, Notification Builder, Notification Channel to create basic notification
+4. Notification style, image, content, image, intent etc can be set programmatically
+
+
+
 
 
 
