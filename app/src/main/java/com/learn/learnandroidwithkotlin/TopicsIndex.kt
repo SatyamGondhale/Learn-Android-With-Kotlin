@@ -132,6 +132,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,notificationFragment,"NotificationFragment")
             ft.commit();
         }
+        v.runtime_permission_topic.setOnClickListener{
+            fm=childFragmentManager
+            val permissionsFragment=RuntimePermission()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,permissionsFragment,"PermissionFragment")
+            ft.commit();
+        }
         return v;
     }
 
