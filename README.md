@@ -118,6 +118,13 @@ You Learn Android Concepts & Kotlin Concepts hand-in-hand
 2. Checking permission for already granted, requesting permission if not, handling the state after permission granted is almost the same as in Java
 3. Too much easy with Kotlin code.
 
+**Branch 16 : tabview_kotlin :**
+1. This helps us to understand how basic TabView can be implemented in Android using Kotlin.
+2. It also follows similar Java way of creating Adapter class required for displaying Tabs.
+3. Tab displayed here are with help of TabLayout & ViewPager.
+3. New Kotlin concept to learn here is :
+   - [Kotlin Double Bang Operator](https://kotlinlang.org/docs/reference/null-safety.html#the--operator)
+
 
 
 
