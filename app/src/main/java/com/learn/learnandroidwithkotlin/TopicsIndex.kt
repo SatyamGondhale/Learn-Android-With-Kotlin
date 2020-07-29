@@ -139,6 +139,13 @@ class TopicsIndex : Fragment() {
             ft.replace(R.id.app_frame,permissionsFragment,"PermissionFragment")
             ft.commit();
         }
+        v.tabview_topic.setOnClickListener{
+            fm=childFragmentManager
+            val tabviewFragment=TabView()
+            ft=requireActivity().supportFragmentManager.beginTransaction()
+            ft.replace(R.id.app_frame,tabviewFragment,"TabViewFragment")
+            ft.commit();
+        }
         return v;
     }
 
